@@ -28,7 +28,7 @@ public class ConfiguracaoDeData {
         dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver"); // Driver JDBC para MySQL 8+
         dataSource.setUrl("jdbc:mysql://localhost:3306/login?useTimezone=true&serverTimezone=UTC"); // URL de conexão com o banco
         dataSource.setUsername("root"); // Usuário do banco
-        dataSource.setPassword("manoelmm3"); // Senha do banco (⚠️ Evite deixar isso exposto em produção)
+        dataSource.setPassword("colocarsenhadomysql"); // Senha do banco (⚠️ Evite deixar isso exposto em produção)
         return dataSource;
     }
 
