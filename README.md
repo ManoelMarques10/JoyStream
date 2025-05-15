@@ -1,4 +1,4 @@
-# Sistema de cadastro de usuário 
+# Sistema de cadastro de usuário 😎
 
 Este é um projeto feito para um trabalho em conjunto da faculdade.
 
